@@ -20,37 +20,26 @@ Source: https://www.google.fr/
           Il a été annoncé le 9 décembre 2009 est il est appelé Google Public DNS.
           Source: https://fr.wikipedia.org/wiki/Google_Public_DNS
           
-192.168.0.1 : Adresse IP qui est généralement depuis un navigateur, une adresse de réseau local, c’est l’adresse d’une machine situé
-          sur un réseau local, qui peut être un ordinateur ou un box Internet.
+192.168.0.1 : Adresse IP qui est généralement depuis un navigateur, une adresse de réseau local, c’est l’adresse d’une                 machine situé sur un réseau local, qui peut être un ordinateur ou un box Internet.
           Source : https://www.reviversoft.com/fr/blog/2014/05/learn-about-192-168-0-1-and-how-to-set-up-the-internet/
           
-255.255.255.0 : Un masque de sous-réseau (désigné par subnet mask, netmask ou address mask en anglais) est un masque indiquant le nombre
-          de bits d'une adresse IPv4 utilisés pour identifier le sous-réseau et le nombre de bits caractérisant les hôtes 
-          (ce qui indique aussi le nombre d'hôtes possibles dans ce sous-réseau). L'adresse du sous-réseau est obtenue en appliquant l'opérateur
-          binaire entre l'adresse IPv4 et le masque de sous-réseau. L'adresse de l'hôte à l'intérieur du sous-réseau est quant à elle obtenue en 
-          appliquant l'opérateur entre l'adresse IPv4 et le complément d'un masque.
+255.255.255.0 : Un masque de sous-réseau (désigné par subnet mask, netmask ou address mask en anglais) est un masque                   indiquant le nombre de bits d'une adresse IPv4 utilisés pour identifier le sous-réseau et le nombre de bits                   caractérisant les hôtes (ce qui indique aussi le nombre d'hôtes possibles dans ce sous-réseau). L'adresse du sous-           réseau est obtenue en appliquant l'opérateur binaire entre l'adresse IPv4 et le masque de sous-réseau. L'adresse de           l'hôte à l'intérieur du sous-réseau est quant à elle obtenue en  appliquant l'opérateur entre l'adresse IPv4 et le           complément d'un masque.
           Source : https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau
           
-127.0.0.1 : En informatique, on travaille souvent en mode client-serveur : une ou plusieurs machines envoient des requêtes à un serveur 
-          central1 qui envoie les réponses appropriées. C'est par exemple le cas d’un serveur web ou d’un serveur de bases de données.
-          Lors de la phase de développement d’un programme informatique impliquant des échanges sur un réseau, il n’est pas pour autant
-          nécessaire de disposer de plusieurs machines physiques ni même virtuelles : la même machine physique peut parfaitement héberger
-          le serveur et un ou plusieurs clients, exactement dans les mêmes conditions : en communiquant par des ports.
-          Dans le domaine des réseaux informatiques, localhost est le nom habituel qui désigne une interface logique de l’ordinateur local.
+127.0.0.1 : En informatique, on travaille souvent en mode client-serveur : une ou plusieurs machines envoient des requêtes à           un serveur central qui envoie les réponses appropriées. C'est par exemple le cas d’un serveur web ou d’un serveur             de bases de données. Lors de la phase de développement d’un programme informatique impliquant des échanges sur un             réseau, il n’est pas pour autant nécessaire de disposer de plusieurs machines physiques ni même virtuelles : la               même machine physique peut parfaitement héberger le serveur et un ou plusieurs clients, exactement dans les mêmes             conditions : en communiquant par des ports.
+          Dans le domaine des réseaux informatiques, localhost est le nom habituel qui désigne une interface logique de                 l’ordinateur local.
           Source : https://fr.wikipedia.org/wiki/Localhost
-
+          
 
 4) Que sont le copyright et le copyleft ?
 
-Copyleft : Le copyleft, parfois traduit comme gauche d'auteur, est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur
-       (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où
-       cette même autorisation reste préservée.
+Copyleft : Le copyleft, parfois traduit comme gauche d'auteur, est l'autorisation donnée par l'auteur d'un travail soumis au        droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser        son œuvre, dans la mesure où cette même autorisation reste préservée.
        Le terme copyleft est un jeu de mot construit par opposition au terme copyright.
        Source : https://fr.wikipedia.org/wiki/Copyleft
        
-Copyright : Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre
-        littéraire, artistique ou scientifique.
-        Source : http://alloservice.info/questions/2112/cest-quoi-la-diff%C3%A9rence-entre-copyright-%26-copyleft
+Copyright : Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre                déterminé d'années son œuvre
+       littéraire, artistique ou scientifique.
+       Source : http://alloservice.info/questions/2112/cest-quoi-la-diff%C3%A9rence-entre-copyright-%26-copyleft
         
         
 5) Que sont les Creatives Commons ?
@@ -120,190 +109,46 @@ Source : http://lacantine-toulouse.org
 
 11) Quels sont les prochains rendez-vous tech de Toulouse ?
 
-Toulouse accueille le festival EmTech !Quai des Savoirs
+  Toulouse accueille le festival EmTech !Quai des Savoirs
 39, allées Jules-Guesde, 31000 TOULOUSE
 Source : https://www.frenchtechtoulouse.com/accueil
 
-Toulouse, 16 février 2018 L’association CPA-2018 annonce l’organisation de son Hackathon afin de 
+  Toulouse, 16 février 2018 L’association CPA-2018 annonce l’organisation de son Hackathon afin de 
 « lutter contre le gaspillage de l’eau », à Toulouse les 15-16 juin 2018.
 Cet évènement ouvert à toutes et tous, a pour objectif de collaborer en groupe pour trouver des solutions innovantes 
 dans un temps restreint de 24 heuresdu (Vendredi 18h00 au Samedi 18h00).
+source : https://www.digitalplace.fr/agenda/hackathon-savewater-economisons-leau/
 
+  Au départ de la gare de Perpignan à destination de Madrid, une sélection de startups des Pyrénées Orientales, Toulouse et Montpellier mais aussi de Gérone, Barcelone et Madrid est invitée à présenter les différents projets dans un train devant des investisseurs, banques et institutions. Le projet jugé le plus novateur et ambitieux sera récompensé par un jury spécialement composé pour l’occasion.
+Cet évènement a pour vocation de regrouper et mettre en relation les communautés du sud de la France et d’Espagne. L’objectif premier est de permettre de créer des liens, non seulement entre les entreprises elles-mêmes, mais aussi avec des investisseurs potentiels, publics ou privés, représentant une valeur ajoutée indéniable au processus de concrétisation de leur projet. D’autre part, cela permettra de en lumière l’innovation et le dynamisme dont ces entreprises font preuves dans leur développement quotidien.
+Source : https://www.digitalplace.fr/agenda/le-train-de-la-french-tech-2/
 
- 
 
+12) Qui est Aaron Swartz ?
 
+  Aaron Hillel Swartz est un informaticien américain, écrivain, meneur politique et militant d'Internet. Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons, le cadriciel de site Web web.py et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogaminote.
+Puis en téléchargeant une base de données composée d'articles payants, il a été attaqué en justice et peu de temps avant son procès, il se suicide.
+Source : https://fr.wikipedia.org/wiki/Aaron_Swartz
 
 
+13) Qu’est-ce que le projet GNU ?
 
+  GNU est un projet de système d'exploitation composé entièrement de logiciels libres. Ce projet a été initié par Richard Stallman en 1984 lorsqu'il était au MIT pour échapper aux systèmes propriétaires. Les logiciels et sytèmes d'exploitation libres permettent une plus grande liberté des utilisateurs. 
+Source : https://www.gnu.org/home.fr.html
 
 
+14) Quelles sont les différences entre le Http et le Https ?
 
+  HTTP signifie "HyperText Transport Protocol", communément appelé un protocole pour les informations transmises entre les serveurs web et leurs clients. La lettre S fait toute la différence entre HTTP et HTTPS. Le S est synonyme de Secure (sécurité).L'ajout du S signifie également que les échanges entre la machine et le serveur sont cryptées et ne peuvent être lues que par les deux parties. Le protocole Https est très utile dans le cas d'échange de données condidentielles comme la consultation de son compte en banque par exemple. Sans lui, il est facile de récupérer les informations.
+Source : http://www.culture-informatique.net/cest-quoi-difference-http-https/
 
 
+15) Qui est Richard Stallman ?
 
+  Richard Stallman est le fondateur de GNU/Linux, il est considéré comme le père des logiciels libres. Stallman est à l'origine de la fondation Free Software Foundation qui a porté le projet GNU/Linux. Ce projet avait pour but de développer un système d'exploitation totalement libre de droit protégé par la license libre GPL (General Public License). Richard Stallman est aussi l'auteur de logiciels tels que Emacs.
+Source : https://fr.wikipedia.org/wiki/Richard_Stallman
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 
 
