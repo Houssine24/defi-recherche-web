@@ -149,6 +149,79 @@ Source : http://www.culture-informatique.net/cest-quoi-difference-http-https/
 Source : https://fr.wikipedia.org/wiki/Richard_Stallman
 
   
+16) Comment fonctionnent les bang de Duck Duck Go ?
+
+  DuckDuckGo est un méta-moteur de recherche, Il se distingue en utilisant les informations de crowdsourcing provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence.
+Par exemple, pour rechercher une vidéo youtube directement depuis Duck Duck Go, on peut utiliser la recherche !yt Rickroll. Il y a à l'heure actuelle plus de
+10,911 bang fonctionnels.
+Source : https://duckduckgo.com/bang
+
+
+17) Qui est Marissa Mayer?
+
+  Marissa Ann Mayer est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation.
+Source: https://fr.wikipedia.org/wiki/Marissa_Mayer
+
+
+18) Qu'est-ce qu'une attaque "brute force"?
+
+  L'attaque en "Force brute" est l'une des méthodes utilisées en cryptanalyse pour tenter de casser un cryptage. Le principe en lui-même de l'attaque en "Force brute" ne vise pas exclusivement les "Mots de passe" mais c'est dans ce domaine que ce type d'attaques est essentiellement utilisé. L'attaque en "Force brute" vise un mot de passe à la fois.
+Source: http://assiste.com/Force_brute.html
+
+
+19) Qui est Linus Torvalds? Quels sont ses plus grands développements?
+
+  De son vrai nom Benedict Torvalds est un informaticien américano-finlandais. Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. Il a également créé le logiciel de gestion de versions Git, initialement prévu pour le développement du noyau Linux.
+Source: https://fr.wikipedia.org/wiki/Linus_Torvalds
+
+
+20) Combien coûte un nom de domaine?
+
+  Les prix peuvent varier de 5€ à 800€ par an.
+Source : https://www.nom-domaine.fr/tarifs.html
+
+
+21) Quels sont les différents services d'emailing disponibles ? Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ? 
+
+  Il existe de nombreux services d'emailing comme: Benchmark Email, eTarget eMailing, Oximailing, Sarbacane... 
+Source : https://fr.wikipedia.org/wiki/E-mailing
+
+  On utilisera alors les emails de notifications. 
+Source : https://fr.mailjet.com/docs/email_types
+
+
+22) Quelle est votre adress IP actuelle ?
+
+  Mon adresse IP est:
+89.87.134.88
+Détails de mon IP:
+FAI:	Bouygues Telecom
+Ville:	Auch
+Source : https://whatismyipaddress.com/fr/mon-ip
+
+
+23) Et celle de votre smartphone ?
+
+  L'adresse IP de mon Smartphone est: 192.168.1.18.
+Source : http://www.mon-ip.com/adresse-ip-locale.php
+
+
+24) Qu’est-ce que le développement en cycle V ?
+
+  Le cycle en V est une méthode d’organisation très connue dont l’origine remonte à l’industrie et qui a été adaptée à l’informatique dans les années 80. On peut y distinguer 3 grandes parties : La phase de conception, la phase de réalisation (codage) et la phase de validation. Les phases de conception et de validation se découpent en plusieurs parties. Chaque étape ne peut être réalisée qu’une fois que l’étape précédente est terminée, ce qui diminue les prises de risque sur le projet.
+Source : http://www.geek-directeur-technique.com/2009/02/04/le-cycle-en-v
+
+
+25) Les Hackers sont-ils des hors-la-loi ?
+
+  Oui et Non, cela dépend surtout de leurs intentions.Le hacker est une personne qui rentre dans un système informatique en sautant les barrières de protection, souvent par défi intellectuel et pas toujours par profit matériel. Certains ne font que visiter le système causant, malgré tout, la panique des services de sécurité. D'autres hackers appelés parfois crackers sont beaucoup plus nuisibles; ils pénètrent un système et en détériorent le software en le modifiant,en le détruisant, en lui implantant un virus ou autre.
+Source : http://sef.xena.ad/lcf/traque/hackers.html
+
+
+26) Qui a inventé la souris?
+
+  La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research Institute et présentée au public en 1968. Pendant de nombreuses années les souris informatiques ne communiquaient avec l'ordinateur que par l'intermédiaire d'un fil, ce qui les faisait ressembler à des souris domestiques. Depuis, des modèles dont les communications avec l'ordinateur se font par ondes radio ou par liaisons infra-rouge sont courants.
+Source : https://fr.wikipedia.org/wiki/Souris_(informatique)
 
 
 
